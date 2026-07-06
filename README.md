@@ -93,25 +93,43 @@ LightGBM, Voting, and Stacking ensembles.
 ``` text
 screenshots/
 ├── dataset_preview.png
-├── dataset_info.png
+├── dataset_info.pnn
+├── tts.png
 ├── bagging_results.png
-├── boosting_results.png
+├── boosting.png
 ├── models_comparison.png
 ├── roc_curve.png
-├── adaboost_error.png
-├── gradient_learning_rate.png
+├── light_gbm.png
+├── adaboost.png
+├── gradientboost.png
 └── final_analysis.png
 ```
 
 Example:
 
-``` md
-![Dataset Preview](screenshots/dataset_preview.png)
 
-![ROC Curve](screenshots/roc_curve.png)
+![Dataset Preview](./screenshots/dataset_preview.png)
 
-![Model Comparison](screenshots/models_comparison.png)
-```
+![Dataset Info](./screenshots/dataset_info.png)
+
+![Train Test](./screenshots/tts.png)
+
+![Bagging](./screenshots/bagging_results.png)
+
+![Boosting Result](./screenshots/boosting_results.png)
+
+![Model Comparison](./screenshots/models_comparison.png)
+
+![ROC Curve](./screenshots/roc_curve.png)
+
+![Light GBM](./screenshots/light_gbm.png)
+
+![Adaboost](./screenshots/adaboost.png)
+
+![Gradient Boost](./screenshots/gradientboost.png)
+
+![Final Analys](./screenshots/final_analysis.png)
+
 
 ------------------------------------------------------------------------
 
