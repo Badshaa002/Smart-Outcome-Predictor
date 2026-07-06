@@ -131,22 +131,6 @@ Example:
 ![Final Analys](./screenshots/final_analysis.png)
 
 
-------------------------------------------------------------------------
-
-# 🚀 Run
-
-``` bash
-git clone https://github.com/yourusername/Smart-Outcome-Predictor.git
-cd Smart-Outcome-Predictor
-pip install -r requirements.txt
-jupyter notebook
-```
-
-Open:
-
-``` text
-Smart_Outcome_Predictor.ipynb
-```
 
 ------------------------------------------------------------------------
 
